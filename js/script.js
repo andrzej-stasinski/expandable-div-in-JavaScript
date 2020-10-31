@@ -1,6 +1,5 @@
-// DIV rozwijany - 1 solution
-// --------------------------
-
+// DIV rozwijany
+// -------------
 
 (function(){
 	var tytul = document.querySelectorAll('.tytul');
